@@ -5,11 +5,9 @@
   </a>
 </p>
 
-<p align="center">Serverless MicroService application for user management with different Auth method and two factory auth </p>
+<p align="center">WD Studio presents Serverless MicroService application for user management with different Auth method and two factory auth </p>
 <p align="center">
-  <a href="https://wdstudio.ge" target="_blank">
-    <img src="https://wdstudio.ge/images/logo.png" width="200" alt="WDStudio Logo" /> WD Studio presents but welcomee contributors
-  </a>
+  welcome contributors
 </p>
 
 ## Description
